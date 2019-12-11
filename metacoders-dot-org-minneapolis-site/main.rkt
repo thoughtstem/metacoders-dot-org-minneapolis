@@ -8,7 +8,7 @@
 (define (index)
   (page index.html
         (city-page
-         #:city-name "Minneapolis"
+         #:city-name "Minneapolis, MN"
          #:banner-url "https://upload.wikimedia.org/wikipedia/commons/f/f6/Minneapolis-skyline-20070508.jpg"
          )))
 
