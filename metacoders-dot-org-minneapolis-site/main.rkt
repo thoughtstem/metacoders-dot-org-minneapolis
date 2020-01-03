@@ -1,6 +1,9 @@
 #lang at-exp racket
 
-(provide pages index)
+(provide pages 
+         index
+         weekly-class-k-2nd-winter
+         weekly-class-3rd-6th-winter)
 
 (require metacoders-dot-org-minneapolis-lib
          metacoders-dot-org-lib)
