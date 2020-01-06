@@ -19,8 +19,8 @@
       #:address       "100 Church St. S.E., Minneapolis MN 55455"
       #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
       #:price         225
-      #:start-time    "10:00 am"
-      #:end-time      "11:30 am"
+      #:start-time    "10:00am"
+      #:end-time      "11:30am"
       #:meeting-dates (list "02/29/2020" "03/07/2020" "03/14/2020" "03/21/2020" "04/04/2020" "04/18/2020" "04/25/2020" "05/02/2020")
       #:status        'open
    ))
@@ -36,8 +36,8 @@
       #:address       "100 Church St. S.E., Minneapolis MN 55455"
       #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
       #:price         225
-      #:start-time    "12:00 pm"
-      #:end-time      "1:30 pm"
+      #:start-time    "12:00pm"
+      #:end-time      "1:30pm"
       #:meeting-dates (list "02/29/2020" "03/07/2020" "03/14/2020" "03/21/2020" "04/04/2020" "04/18/2020" "04/25/2020" "05/02/2020")
       #:status 'open
    ))
