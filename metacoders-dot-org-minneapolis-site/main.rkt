@@ -1,14 +1,12 @@
 #lang at-exp racket
 
 (provide pages 
-         index
-         weekly-class-k-2nd-winter
-         weekly-class-3rd-6th-winter)
+         index)
 
 (require metacoders-dot-org-minneapolis-lib
          metacoders-dot-org-lib)
          
-(define (weekly-class-k-2nd-winter) 
+(define/provide-course weekly-class-k-2nd-winter
   (course
       #:topic         "Awesome Animals!"
       #:sku           "sku_Rm6vIBZ3SXmm7JMWDKjJw"
@@ -25,7 +23,7 @@
       #:status        'open
    ))
    
-(define (weekly-class-3rd-6th-winter) 
+(define/provide-course weekly-class-3rd-6th-winter
   (course
       #:topic         "Survival Video Game Design"
       #:sku           "sku_e2JP8kPT2qHgBYHei0eZg"
@@ -47,8 +45,8 @@
         (city-page
          #:city-name "Minneapolis, MN"
          #:banner-url (prefix/pathify minneapolis-banner-path)
-         #:school-year-courses (list (weekly-class-k-2nd-winter)
-                                     (weekly-class-3rd-6th-winter))
+         #:school-year-courses (list weekly-class-k-2nd-winter
+                                     weekly-class-3rd-6th-winter)
          )))
 
 (define (pages)
