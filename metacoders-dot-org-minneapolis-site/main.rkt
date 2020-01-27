@@ -47,6 +47,7 @@
         (city-page
          #:city-name "Minneapolis, MN"
          #:banner-url (prefix/pathify minneapolis-banner-path)
+         #:alt-tag "City of Minneapolis, Minnesota with a view of the downtown skyline and trees"
          #:school-year-courses (list weekly-class-k-2nd-winter
                                      weekly-class-3rd-6th-winter)
          )))
