@@ -143,7 +143,7 @@
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
         #:pickup-time   "4:00pm - 4:15pm"
-        #:meeting-dates (list "6/8/2020" "6/9/2020" "6/10/2020" "6/11/2020" "6/12/2020")
+        #:meeting-dates (list "6/22/2020" "6/23/2020" "6/24/2020" "6/25/2020" "6/26/2020")
         #:status         'open
         ))
 
