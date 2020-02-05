@@ -85,6 +85,7 @@
       #:address       "100 Church St. S.E., Minneapolis MN 55455"
       #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -100,9 +101,10 @@
         #:description   clicker-cartoon-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-      #:address       "100 Church St. S.E., Minneapolis MN 55455"
-      #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
+        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -118,9 +120,10 @@
         #:description    battlearena-fortnite-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-      #:address       "100 Church St. S.E., Minneapolis MN 55455"
-      #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
+        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -135,10 +138,11 @@
         #:video-path    adventure-harrypotter-mp4-path                     
         #:description   adventure-harrypotter-description
         #:grade-range   "Entering 3rd - 6th"
-       #:location      "University of Minnesota, Twin Cities"
-      #:address       "100 Church St. S.E., Minneapolis MN 55455"
-      #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
+        #:location      "University of Minnesota, Twin Cities"
+        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -157,6 +161,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -175,6 +180,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -193,6 +199,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -211,6 +218,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -229,6 +237,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -247,6 +256,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -266,6 +276,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -284,6 +295,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -302,6 +314,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -320,6 +333,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -338,6 +352,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -356,6 +371,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -374,6 +390,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -392,6 +409,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -410,6 +428,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
+        #:discount      33.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -428,6 +447,7 @@
         #:address       "100 Church St. S.E., Minneapolis MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
+        #:discount      25.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
