@@ -57,7 +57,7 @@
       #:description   "MetaCoders’ novel approach to computer science education is backed by the latest scientific research that shows learning how to code is more like learning a foreign language than learning math. Therefore, we leverage the entire field of language acquisition so that our students are ready for a future where they’ll need to speak the languages of computers fluently. We also keep the emphasis on FUN, so throughout the course students will earn badges and prizes as they expand their knowledge of computer science. During this session of Coding Club, students will be designing video games featuring animals - they'll learn how to customize the colors of & heal their animal game characters, and also avoid enemies!"
       #:grade-range   "K - 2nd"
       #:location      "University of Minnesota, Twin Cities"
-      #:address       "100 Church St. S.E., Minneapolis MN 55455"
+      #:address       "100 Church St. S.E., Minneapolis, MN 55455"
       #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
       #:price         225
       #:discount      22
@@ -75,7 +75,7 @@
       #:description   "In our Winter Saturday class, students will design & code their very own 2D survival games. Students will learn how to build critical features that make survival games like Minecraft and Fortnite fun! Students will use a powerful, typed language to code features like health bars, day-night cycles, and crafting/recipe mechanics. At the end of this course, students will be able to share their survival games with friends and family."
       #:grade-range   "3rd - 6th"
       #:location      "University of Minnesota, Twin Cities"
-      #:address       "100 Church St. S.E., Minneapolis MN 55455"
+      #:address       "100 Church St. S.E., Minneapolis, MN 55455"
       #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
       #:price         225
       #:discount      22
@@ -125,7 +125,7 @@
         #:description   healer-zoo-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-      #:address       "100 Church St. S.E., Minneapolis MN 55455"
+      #:address       "100 Church St. S.E., Minneapolis, MN 55455"
       #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
@@ -144,7 +144,7 @@
         #:description   clicker-cartoon-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
@@ -163,7 +163,7 @@
         #:description    battlearena-fortnite-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
@@ -182,7 +182,7 @@
         #:description   adventure-harrypotter-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
@@ -201,7 +201,7 @@
         #:description   healer-animal-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
@@ -220,7 +220,7 @@
         #:description   clicker-pokemon-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
@@ -258,7 +258,7 @@
         #:description   battlearena-avengers-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
@@ -277,7 +277,7 @@
         #:description   clicker-cartoon-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
@@ -296,7 +296,7 @@
         #:description   healer-zoo-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
@@ -316,7 +316,7 @@
         #:description   battlearena-starwars-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
@@ -335,7 +335,7 @@
         #:description   survival-pokemon-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
@@ -354,7 +354,7 @@
         #:description   clicker-pokemon-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
@@ -373,7 +373,7 @@
         #:description   healer-animal-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
@@ -392,7 +392,7 @@
         #:description   adventure-mario-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
@@ -411,7 +411,7 @@
         #:description   battlearena-fortnite-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
@@ -430,7 +430,7 @@
         #:description   healer-zoo-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
@@ -449,7 +449,7 @@
         #:description   clicker-cartoon-description
         #:grade-range   "Entering K - 2nd"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
@@ -468,7 +468,7 @@
         #:description   adventure-harrypotter-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
@@ -487,7 +487,7 @@
         #:description   survival-minecraft-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         255
         #:discount      25.5
