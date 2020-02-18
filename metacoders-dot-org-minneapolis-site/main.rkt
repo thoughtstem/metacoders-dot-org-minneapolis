@@ -73,7 +73,7 @@
       #:sku           "sku_e2JP8kPT2qHgBYHei0eZg"
       #:video-path     survival-mp4-path ;"https://www.thoughtstem.com/img/stock-photos/survival-game-gif.gif"
       #:description   "In our Winter Saturday class, students will design & code their very own 2D survival games. Students will learn how to build critical features that make survival games like Minecraft and Fortnite fun! Students will use a powerful, typed language to code features like health bars, day-night cycles, and crafting/recipe mechanics. At the end of this course, students will be able to share their survival games with friends and family."
-      #:grade-range   "3rd-6th"
+      #:grade-range   "3rd - 6th"
       #:location      "University of Minnesota, Twin Cities"
       #:address       "100 Church St. S.E., Minneapolis MN 55455"
       #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
