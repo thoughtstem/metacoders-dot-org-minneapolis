@@ -239,7 +239,7 @@
         #:description   survival-minecraft-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "University of Minnesota, Twin Cities"
-        #:address       "100 Church St. S.E., Minneapolis MN 55455"
+        #:address       "100 Church St. S.E., Minneapolis, MN 55455"
         #:address-link  "https://goo.gl/maps/xraVRa8WFWFj45qn9"
         #:price         335
         #:discount      33.5
