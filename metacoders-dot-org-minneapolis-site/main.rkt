@@ -14,8 +14,9 @@
          #:city-name "Minneapolis, MN"
          #:banner-url (prefix/pathify minneapolis-banner-path)
          #:alt-tag "City of Minneapolis, Minnesota with a view of the downtown skyline and trees"
-	 (remote 
-	    "https://mc-social-media.s3-us-west-1.amazonaws.com/static-points-of-sale/minneapolis.html")
+	 (div class: "mb-0 pt-5 pb-5 text-center"
+	 	(h2 "Coming Soon!")
+	 	(p "We're prioritizing students', employees', and families' health during COVID-19. In the meantime, check out our Quarantine Coding Club using the link above!"))
          )))
 
 (define (pages)
